@@ -13,10 +13,6 @@ body {
     font-size: 1.5rem;
 }
 
-.content {
-    width: 100%;
-}
-
 .roleOption {
     background-color: #36393F;
     transition: all .2s ease-in-out;
@@ -68,6 +64,8 @@ body {
     transition: all .2s ease-in-out;
     margin-top: 73px;
     width: 100%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .nav-item img {
