@@ -13,6 +13,10 @@ body {
     font-size: 1.5rem;
 }
 
+.content {
+    width: 100%;
+}
+
 .roleOption {
     background-color: #36393F;
     transition: all .2s ease-in-out;
