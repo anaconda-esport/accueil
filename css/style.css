@@ -63,6 +63,7 @@ body {
     font-family: "Arial Black";
     transition: all .2s ease-in-out;
     margin-top: 73px;
+    width: 100%;
 }
 
 .nav-item img {
