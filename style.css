@@ -1,0 +1,75 @@
+body {
+    background-color: #36393F;
+    overflow-x: hidden;
+}
+
+.bg-light {
+    background-color: #202225!important;
+}
+.nav-link {
+    color: #A1A3A2!important;
+    transition: all .2s ease-in-out;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.5rem;
+}
+
+.roleOption {
+    background-color: #36393F;
+    transition: all .2s ease-in-out;
+}
+
+.row {
+    padding: 40px;
+}
+
+.form {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    padding: 20px 20px;
+    background-color: gray;
+    border-radius: 10px;
+    border: rgb(43, 43, 43) solid 2px;
+}
+
+.form textarea {
+    min-height: 40px;
+    height: 40px;
+}
+
+.nav-link:hover {
+    color: #D0CECE!important;
+}
+
+.dropdown-item {
+    transition: all .2s ease-in-out;
+}
+
+.dropdown-item:hover {
+    background-color: #BFBFBF;
+}
+
+#navbar-logo {
+    width: 50px;
+}
+
+.separation {
+    font-size: 2rem;
+    text-align: center;
+    border: black solid 2px;
+    background-color: rgb(129, 129, 129);
+    padding: 10px;
+    font-family: "Arial Black";
+    transition: all .2s ease-in-out;
+    margin-top: 73px;
+}
+
+.separation:hover {
+    background-color: rgb(160, 159, 159);
+    cursor: default;
+}
+
+form button:disabled {
+    cursor: not-allowed;
+}
